@@ -85,6 +85,14 @@ a {
   font-weight: 800;
   line-height: 130%; }
 
+.font-size-1-61 {
+  color: #fff;
+  font-family: "Nunito", sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 130%; }
+
 .font-size-1-16 {
   font-size: 16px;
   font-style: normal;
@@ -2646,6 +2654,7 @@ a {
   .hero-area .hero-img-banner {
     padding-top: 105px; }
     .hero-area .hero-img-banner .hero-banner-img-inner {
+      border-radius: 25px;
       overflow: hidden; }
 
 .offer-area-home-1 {
@@ -4402,7 +4411,7 @@ a {
   position: relative;
   background-color: #FF4A3B; }
   .marque-area-home-3.marque-area-home-1 {
-    background-color: #CCFF00; }
+    background-color: #2a2a2a; }
   .marque-area-home-3 img {
     position: relative;
     z-index: 1;
