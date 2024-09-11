@@ -6977,3 +6977,18 @@ a {
           .error-area .error-wrapper form input[type="submit"] {
             width: 100%;
             margin-top: 20px; } }
+#background-video {
+   width: 100vw;
+   height: 90vh;
+   object-fit: cover;
+   
+   left: 0;
+   right: 0;
+   top: 0;
+   bottom: 0;
+   z-index: -1;
+}
+.nav-link.active{
+   border:1px solid #817f7e!important;
+   background: none!important; 
+}
